@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\bin\Debug\netcoreapp3.1\HomeChurch growth tracker.exe
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\bin\Debug\netcoreapp3.1\HomeChurch growth tracker.deps.json
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\bin\Debug\netcoreapp3.1\HomeChurch growth tracker.runtimeconfig.json
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\bin\Debug\netcoreapp3.1\HomeChurch growth tracker.runtimeconfig.dev.json
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\bin\Debug\netcoreapp3.1\HomeChurch growth tracker.dll
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\bin\Debug\netcoreapp3.1\HomeChurch growth tracker.pdb
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.AssemblyInfo.cs
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.dll
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.pdb
+C:\Users\Student\source\repos\sidework\HomeChurch growth tracker\obj\Debug\netcoreapp3.1\HomeChurch growth tracker.genruntimeconfig.cache

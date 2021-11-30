@@ -1,6 +1,10 @@
+DROP Database HCSERVER
+GO
+CREATE DATABASE HCSERVER
+GO
 Create Table members 
 (
-	memberId serial,
+	memberId int,
 	name varchar(64) not null,
 	believer bit not null,
 	homeChurch varchar(64),
@@ -8,7 +12,7 @@ Create Table members
 );
 Create Table homeChurches 
 (
-	homeChurchId serial,
+	homeChurchId int,
 	name varchar(64) not null,
 	numberOfMembers int not null,
 	seniorLeader varchar(64),
@@ -16,10 +20,17 @@ Create Table homeChurches
 );
 Create Table leaders 
 (
-	memberId serial,
-	homeChurchId serial,
-	constraint fk_leaders foreign key (memberId),
-
-
+	memberId int,
+	homeChurchId int,
+	FOREIGN KEY (memberId) REFERENCES members(memberId),
+	FOREIGN KEY (homeChurchId) REFERENCES homeChurches(homeChurchId)
+);
+Create Table sphere
+(
+	sphereId int,
+	homeChurchId int,
+	Primary Key (sphereId),
+	FOREIGN KEY (homeChurchId) REFERENCES homeChurches(homeChurchId)
 
 );
+

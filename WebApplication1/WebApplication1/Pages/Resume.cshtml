@@ -5,4 +5,16 @@
 }
 <h1>@ViewData["Title"]</h1>
 
-<p>Insert Resume Here.</p>
+
+  <div id="viewer" style="width: 100%; height: 1000px;"></div>
+  <script type="text/javascript" src="https://cloudpdf.io/viewer.min.js"></script>
+  <script>
+    const config = { 
+      documentId: '9ba84773-5d94-40b3-bf4f-94ac535ee64c',
+      darkMode: true, 
+      token: '' //add your server side generated security token or change your document permission to public
+    };
+    CloudPDF(config, document.getElementById('viewer')).then((instance) => {
+      
+    });
+  </script>

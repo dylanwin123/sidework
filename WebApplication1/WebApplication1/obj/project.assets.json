@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\awsom\\code\\sidework\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\Users\\awsom\\code\\sidework\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\awsom\\code\\sidework\\WebApplication1\\WebApplication1\\DylanWintersProfilePage.csproj",
+      "projectName": "DylanWintersProfilePage",
+      "projectPath": "C:\\Users\\awsom\\code\\sidework\\WebApplication1\\WebApplication1\\DylanWintersProfilePage.csproj",
       "packagesPath": "C:\\Users\\awsom\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\awsom\\code\\sidework\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
